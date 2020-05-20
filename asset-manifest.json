@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SnehaJujare/familyfriends/static/css/main.5ef4ee1a.chunk.css",
+    "main.js": "/SnehaJujare/familyfriends/static/js/main.52f2a134.chunk.js",
+    "main.js.map": "/SnehaJujare/familyfriends/static/js/main.52f2a134.chunk.js.map",
+    "runtime-main.js": "/SnehaJujare/familyfriends/static/js/runtime-main.c0cd9874.js",
+    "runtime-main.js.map": "/SnehaJujare/familyfriends/static/js/runtime-main.c0cd9874.js.map",
+    "static/css/2.7a3f122f.chunk.css": "/SnehaJujare/familyfriends/static/css/2.7a3f122f.chunk.css",
+    "static/js/2.9ae2a642.chunk.js": "/SnehaJujare/familyfriends/static/js/2.9ae2a642.chunk.js",
+    "static/js/2.9ae2a642.chunk.js.map": "/SnehaJujare/familyfriends/static/js/2.9ae2a642.chunk.js.map",
+    "index.html": "/SnehaJujare/familyfriends/index.html",
+    "precache-manifest.8fcd39bcdbf7b06dc068126298445933.js": "/SnehaJujare/familyfriends/precache-manifest.8fcd39bcdbf7b06dc068126298445933.js",
+    "service-worker.js": "/SnehaJujare/familyfriends/service-worker.js",
+    "static/css/2.7a3f122f.chunk.css.map": "/SnehaJujare/familyfriends/static/css/2.7a3f122f.chunk.css.map",
+    "static/css/main.5ef4ee1a.chunk.css.map": "/SnehaJujare/familyfriends/static/css/main.5ef4ee1a.chunk.css.map",
+    "static/js/2.9ae2a642.chunk.js.LICENSE.txt": "/SnehaJujare/familyfriends/static/js/2.9ae2a642.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SnehaJujare/familyfriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0cd9874.js",
+    "static/css/2.7a3f122f.chunk.css",
+    "static/js/2.9ae2a642.chunk.js",
+    "static/css/main.5ef4ee1a.chunk.css",
+    "static/js/main.52f2a134.chunk.js"
+  ]
+}
